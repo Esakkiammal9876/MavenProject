@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testingdependency.d2"/>
+      <class name="testingdependency.d1"/>
+      <class name="testingdependency.Real"/>
+      <class name="testngattributes.t1"/>
+      <class name="testngAnnotation.a1"/>
+      <class name="testingassertion.a1"/>
+      <class name="testingassertion.a2"/>
+      <class name="testingwaits.w2"/>
+      <class name="testingwaits.f1"/>
+      <class name="testingwaits.w1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
