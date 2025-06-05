@@ -1,0 +1,15 @@
+[INFO ] 2025-04-19 10:58:21.838 [main] l1 - visited google.com
+[DEBUG] 2025-04-19 10:58:21.853 [main] l1 - going to clicked on the Images
+[WARN ] 2025-04-19 10:58:21.853 [main] l1 - It may failed
+[INFO ] 2025-04-19 10:59:28.163 [main] l1 - visited google.com
+[DEBUG] 2025-04-19 10:59:28.208 [main] l1 - going to clicked on the Images
+[WARN ] 2025-04-19 10:59:28.209 [main] l1 - It may failed
+[INFO ] 2025-04-19 10:59:34.688 [main] l1 - going to quit
+[INFO ] 2025-04-21 11:32:42.960 [main] l1 - visited google.com
+[DEBUG] 2025-04-21 11:32:42.984 [main] l1 - going to clicked on the Images
+[WARN ] 2025-04-21 11:32:42.985 [main] l1 - It may failed
+[INFO ] 2025-04-21 11:32:45.186 [main] l1 - going to quit
+[INFO ] 2025-04-21 11:41:12.349 [main] l1 - visited google.com
+[DEBUG] 2025-04-21 11:41:12.394 [main] l1 - going to clicked on the Images
+[WARN ] 2025-04-21 11:41:12.394 [main] l1 - It may failed
+[INFO ] 2025-04-21 11:41:14.568 [main] l1 - going to quit
